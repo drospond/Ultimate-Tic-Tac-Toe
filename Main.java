@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-    	System.out.println("Welcome to Super Extreme Competitive Tic-Tac-Toe.");
+    	System.out.println("Welcome to Super Extreme Competitive Tic-Tac-Toe!");
     	System.out.println("Follow instructions as they are given and may the best player win.");
     	boolean anotherGame = true;
 
